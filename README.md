@@ -19,7 +19,7 @@ I have always been fascinated by computers and I stared programming after high s
 <h3 align="center"> Connect with me: </h3>
 
 <p align="center">
-<img alt="Ujjwal-Shekhawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />(https://twitter.com/UjjwalSinghShe2)
+<img alt="Ujjwal-Shekhawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/UjjwalSinghShe2"/>
 <img alt="Ujjwal-Shekhawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/ujjwal-singh-shekhawat-6422a11b3/)
 <img alt="Ujjwal-Shekhawat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/unishezawat/?hl=en)
 </p>
