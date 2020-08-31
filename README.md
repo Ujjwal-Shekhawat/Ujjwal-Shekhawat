@@ -72,9 +72,11 @@ I have always been fascinated by computers and I stared programming after high s
 <p align="center">
 <img width="50" height="50" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/git/git-original.svg" />
 
-<img width="50" height="50" alt="GitHub" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/tree/master/icons/github/github-original-wordmark.svg" />
+<img width="50" height="50" alt="GitHub" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/github/github-original-wordmark.svg" />
 
 <img width="50" height="50" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+
+<img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme='tokyonight'&hide_border=true" />
 
 <!-- C, C++, JS, Python, GO -->
