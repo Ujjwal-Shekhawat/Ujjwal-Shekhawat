@@ -25,7 +25,7 @@ I have always been fascinated by computers and I stared programming after high s
 <br />
 
 <p align="center">
-### Languages i know:
+<h3> Languages i know: </h3>
 
 <img width="50" height="50" alt="JavaScript" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/javascript/javascript-original.svg" />
 
