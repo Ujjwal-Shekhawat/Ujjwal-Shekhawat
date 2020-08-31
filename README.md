@@ -14,7 +14,7 @@ I have always been fascinated by computers and I stared programming after high s
 - ⚡ Fun fact: ... I like watching anime, listen to music and read books during my free time
 
 ### Music 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
 
 <h3 align="center"> Connect with me: </h3>
 
@@ -67,7 +67,7 @@ I have always been fascinated by computers and I stared programming after high s
 <br />
 <br /> 
 
-### Version Controls and others
+<H3 align="center"> Version Controls and others </H3>
 
 <p align="center">
 <img width="50" height="50" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
