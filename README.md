@@ -4,7 +4,9 @@
 
 I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how the work. Also I like computer networks.
 
-### I love linux _big time fan_
+### I love linux <img width="50" height="50" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/linux/linux-original.svg" />_big fan_
+
+#### Some things about me ...
 
 - 🔭 I’m currently working on ... __NIGHT_OS__(_Private_) my own Operating System and [MoneyRecord](https://desolate-plains-00303.herokuapp.com/) My first MERN project
 - 🌱 I’m currently learning ... Advanced C++, Full Stack web development, DBMS, Computer Networks, System Design etc.
