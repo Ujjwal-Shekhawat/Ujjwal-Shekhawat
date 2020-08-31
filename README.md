@@ -14,19 +14,19 @@ I have always been fascinated by computers and I stared programming after high s
 - ⚡ Fun fact: ... I like watching anime, listen to music and read books during my free time
 
 ### Music 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ujjwal Spotify Playing" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
 
 <h3 align="center"> Connect with me: </h3>
 
 <p align="center">
 <a href = "https://twitter.com/UjjwalSinghShe2" target = "_self"> 
-    <img alt="Ujjwal-Shekhawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img alt="Ujjwal-Shekhawat | Twitter" width="50" height="50" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/twitter/twitter-original.svg" />
 </a>
 <a href = "https://www.linkedin.com/in/ujjwal-singh-shekhawat-6422a11b3/" target = "_self"> 
-    <img alt="Ujjwal-Shekhawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Ujjwal-Shekhawat | LinkedIn" width="50" height="50" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href = "https://www.instagram.com/unishezawat/?hl=en" target = "_self"> 
-    <img alt="Ujjwal-Shekhawat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Ujjwal-Shekhawat | Instagram" width="50" height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
 
