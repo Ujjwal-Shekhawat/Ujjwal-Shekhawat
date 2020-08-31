@@ -22,8 +22,12 @@ I have always been fascinated by computers and I stared programming after high s
 <a href = "https://twitter.com/UjjwalSinghShe2" target = "_self"> 
     <img alt="Ujjwal-Shekhawat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<img alt="Ujjwal-Shekhawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/ujjwal-singh-shekhawat-6422a11b3/)
-<img alt="Ujjwal-Shekhawat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/unishezawat/?hl=en)
+<a href = "https://www.linkedin.com/in/ujjwal-singh-shekhawat-6422a11b3/" target = "_self"> 
+    <img alt="Ujjwal-Shekhawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href = "https://www.instagram.com/unishezawat/?hl=en" target = "_self"> 
+    <img alt="Ujjwal-Shekhawat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </p>
 
 <br />
