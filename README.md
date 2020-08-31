@@ -6,7 +6,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 ### I love linux <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/linux/linux-original.svg" />
 
-### OS i use <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/ubuntu/ubuntu-plain.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/windows8/windows8-original.svg" />
+### OS I usee <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/ubuntu/ubuntu-plain.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/windows8/windows8-original.svg" />
 
 #### Some things about me ...
 
@@ -87,6 +87,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <br />
 
+<p align="center">
 <img align="center" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
-
+</p>
 <!-- C, C++, JS, Python, GO -->
