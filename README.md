@@ -49,13 +49,16 @@ I have always been fascinated by computers and I stared programming after high s
 <br />
 <br /> 
 
-### Frameworks, libraries and Databases
+<h3 align="center"> Frameworks, libraries and Databases </h3>
 
 <p align="center">
-<img align="left" width="50" height="50" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" width="50" height="50" alt="React" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/react/react-original.svg" />
+
 <img align="left" width="50" height="50" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" width="50" height="50" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" width="50" height="50" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" width="50" height="50" alt="MongoDB" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" width="50" height="50" alt="Node.js" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/nodejs/nodejs-original.svg" />
 </p>
 <br />
 <br /> 
