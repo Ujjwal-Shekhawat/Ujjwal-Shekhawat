@@ -68,7 +68,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="50" height="50" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img width="50" height="50" alt="Vercel" width="26px" src="https://sdtimes.com/wp-content/uploads/2020/04/1_oBm_3saYz4AI_MS6OekdFQ.png" />
+<img width="100" height="50" alt="Vercel" width="26px" src="https://sdtimes.com/wp-content/uploads/2020/04/1_oBm_3saYz4AI_MS6OekdFQ.png" />
 </p>
 
 <br />
