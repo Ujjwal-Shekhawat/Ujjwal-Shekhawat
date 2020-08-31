@@ -4,7 +4,9 @@
 
 I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how the work. Also I like computer networks.
 
-### I love linux <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/linux/linux-original.svg" />_big fan_
+### I love linux <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/linux/linux-original.svg" />
+
+### OS i use <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/ubuntu/ubuntu-plain.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/windows8/windows8-original.svg" />
 
 #### Some things about me ...
 
