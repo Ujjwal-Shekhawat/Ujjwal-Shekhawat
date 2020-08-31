@@ -18,7 +18,7 @@ I have always been fascinated by computers and I stared programming after high s
 - ⚡ Fun fact: ... I like watching anime, listen to music and read books during my free time
 
 ### Music 🎧
-[<img src="https://spotify-now-playing-gray.vercel.app/api/spotify-playing" alt="Ujjwal Spotify Playing" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
+[<img src="https://spotify-now-playing-gray.vercel.app/api/spotify-playing" alt="Ujjwal's Spotify" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
 
 <h3 align="center"> Connect with me: </h3>
 
