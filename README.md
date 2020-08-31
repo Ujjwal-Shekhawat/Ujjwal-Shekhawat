@@ -4,9 +4,11 @@
 
 I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how the work. Also I like computer networks.
 
+### I love linux _big time fan_
+
 - 🔭 I’m currently working on ... __NIGHT_OS__(_Private_) my own Operating System and [MoneyRecord](https://desolate-plains-00303.herokuapp.com/) My first MERN project
-- 🌱 I’m currently learning ... Advanced C++, MERN Stack, DBMS, Computer Networks, System Design etc.
-- 👯 I’m looking to collaborate on ... Operating System's, Web Development, Fast and optimized C and C++ libraries
+- 🌱 I’m currently learning ... Advanced C++, Full Stack web development, DBMS, Computer Networks, System Design etc.
+- 👯 I’m looking to collaborate on ... Operating System's, Web Development, Fast and optimized C and C++ libraries and codes
 - 🤔 I’m looking for help with ... Nothing
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Email : ujjus2001@gmail.com
@@ -77,6 +79,8 @@ I have always been fascinated by computers and I stared programming after high s
 <img width="50" height="50" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-<img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
+<br />
+
+<img align="center" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <!-- C, C++, JS, Python, GO -->
