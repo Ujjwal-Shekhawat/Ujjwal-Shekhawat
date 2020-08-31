@@ -27,11 +27,15 @@ I have always been fascinated by computers and I stared programming after high s
 ### Languages i know:
 <p align="center">
 
-<img align="left" width="50" height="50" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img width="50" height="50" alt="JavaScript" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/javascript/javascript-original.svg" />
 
-<img align="left" width="50" height="50" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img width="50" height="50" alt="C Language" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/c/c-original.svg" />
 
-<img align='left' width="50" height="50" alt="C Language" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/c/c-original.svg" />
+<img width="50" height="50" alt="C++" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/cplusplus/cplusplus-original.svg" />
+
+<img width="50" height="50" alt="C++" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/python/python-original.svg" />
+
+<img width="50" height="50" alt="Golang" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/go/go-original.svg" />
 
 </p>
 <br />
@@ -57,3 +61,5 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img align="left" width="50" height="50" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+
+<!-- C, C++, JS, Python, GO -->
