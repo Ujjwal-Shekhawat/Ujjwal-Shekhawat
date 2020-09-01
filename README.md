@@ -2,7 +2,7 @@
 
 ### I'm a CSE sophomore at [KIIT University](https://kiit.ac.in/)
 
-I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how the work. Also I like computer networks.
+I have always been fascinated by computers and I stared programming after high school. I love learing about the core fundamentals of computers and how they work. Also I like computer networks.
 
 ### I'm a linux <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/linux/linux-original.svg" /> fanboy
 
@@ -91,5 +91,3 @@ I have always been fascinated by computers and I stared programming after high s
 <img align="center" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <!-- C, C++, JS, Python, GO -->
-
-__*Hello*__
