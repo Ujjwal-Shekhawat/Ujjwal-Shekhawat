@@ -39,6 +39,8 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="50" height="50" alt="Golang" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/go/go-original.svg" />
 
+<img width="50" height="50" alt="ASm (x86 Assembly)" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/Assembly/ASM.png" />
+
 </p>
 <br />
 <br /> 
