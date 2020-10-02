@@ -40,7 +40,6 @@ I have always been fascinated by computers and I stared programming after high s
 <img width="25" height="25" alt="Golang" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/go/go-original.svg" />
 
 <img width="25" height="25" alt="ASm (x86 Assembly)" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/Assembly/ASM.png" />
-
 </p>
 <br />
 
@@ -58,9 +57,7 @@ I have always been fascinated by computers and I stared programming after high s
 <img width="25" height="25" alt="Node.js" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/nodejs/nodejs-original.svg" />
 </p>
 <br />
-
 <h4 align="left"> Version Controls and others </h4>
-
 <p align="left">
 <img width="25" height="25" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/git/git-original.svg" />
 
@@ -70,9 +67,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="100" height="25" alt="Vercel" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/vercel/eUSBGOowfI7Z.png" />
 </p>
-
 <br />
-
 <h4 align="left"> Social Media: </h4>
 
 <p align="left">
