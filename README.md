@@ -21,9 +21,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 ### Currently listening 🎧
 [<img src="https://spotify-now-playing-gray.vercel.app/api/spotify-playing" alt="Ujjwal's Spotify" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
-
-<br />
-
+<!-- <br /> -->
 <h4 align="left"> Languages i know: </h4>
 <p align="left">
 
@@ -41,7 +39,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="25" height="25" alt="ASm (x86 Assembly)" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/Assembly/ASM.png" />
 </p>
-<br />
+<!-- <br /> -->
 
 <h4 align="left"> Frameworks, libraries and Databases </h4>
 
@@ -56,7 +54,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="25" height="25" alt="Node.js" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/nodejs/nodejs-original.svg" />
 </p>
-<br />
+<!-- <br /> -->
 <h4 align="left"> Version Controls and others </h4>
 <p align="left">
 <img width="25" height="25" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/git/git-original.svg" />
@@ -65,9 +63,9 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="25" height="25" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img width="100" height="25" alt="Vercel" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/vercel/eUSBGOowfI7Z.png" />
+<img width="50" height="25" alt="Vercel" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/vercel/eUSBGOowfI7Z.png" />
 </p>
-<br />
+<!-- <br /> -->
 <h4 align="left"> Social Media: </h4>
 
 <p align="left">
@@ -81,7 +79,6 @@ I have always been fascinated by computers and I stared programming after high s
     <img alt="Ujjwal-Shekhawat | Instagram" width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
-
 <p align="left">
 <img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
