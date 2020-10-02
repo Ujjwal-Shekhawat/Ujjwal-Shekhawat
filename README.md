@@ -24,7 +24,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <br />
 
-<h3 align="center"> Languages i know: </h3>
+<h4 align="center"> Languages i know: </h4>
 <p align="center">
 
 <img width="25" height="25" alt="JavaScript" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/javascript/javascript-original.svg" />
@@ -43,9 +43,8 @@ I have always been fascinated by computers and I stared programming after high s
 
 </p>
 <br />
-<br /> 
 
-<h3 align="center"> Frameworks, libraries and Databases </h3>
+<h4 align="center"> Frameworks, libraries and Databases </h4>
 
 <p align="center">
 <img width="25" height="25" alt="React" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/react/react-original.svg" />
@@ -59,9 +58,8 @@ I have always been fascinated by computers and I stared programming after high s
 <img width="25" height="25" alt="Node.js" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/nodejs/nodejs-original.svg" />
 </p>
 <br />
-<br /> 
 
-<H3 align="center"> Version Controls and others </H3>
+<h4 align="center"> Version Controls and others </h4>
 
 <p align="center">
 <img width="25" height="25" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/git/git-original.svg" />
@@ -75,7 +73,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <br />
 
-<h3 align="center"> Social Media: </h3>
+<h4 align="center"> Social Media: </h4>
 
 <p align="center">
 <a href = "https://twitter.com/UjjwalSinghShe2" target = "_self"> 
