@@ -10,9 +10,8 @@ I have always been fascinated by computers and I stared programming after high s
 
 #### Some things about me
 
-- 🔭 I’m currently working on __NIGHT_OS__(_Private_) my own Operating System and [MoneyRecord](https://desolate-plains-00303.herokuapp.com/) My first MERN project
-- 🌱 I’m currently learning Advanced C++, Full Stack web development, DBMS, Computer Networks, System Design etc.
-- 👯 I’m looking to collaborate on Operating System's, Web Development, Fast and optimized C and C++ libraries and codes
+- 🌱 I’m currently learning AWS, GCP, DBMS, Computer Networks, Advanced C++, Full Stack web development, System Design etc.
+- 👯 I’m looking to collaborate on Web Development, Algorithms, Operating System's, Fast and optimized libraries and code bases
 - 🤔 I’m looking for help with Nothing
 - 💬 Ask me about Anything
 - 📫 How to reach me: Email : ujjus2001@gmail.com
