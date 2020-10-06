@@ -78,6 +78,8 @@ I have always been fascinated by computers and I stared programming after high s
     <img alt="Ujjwal-Shekhawat | Instagram" width="25" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
+### My GitHub stats
+---
 <p align="left">
 <img align="bottom" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
 <img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Shekhawat&theme=tokyonight&show_icons=true" />
