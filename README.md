@@ -79,7 +79,7 @@ I have always been fascinated by computers and I stared programming after high s
 </a>
 </p>
 <p align="left">
-<img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="bottom" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
 <img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Shekhawat&theme=tokyonight&show_icons=true" />
 </p>
 <!-- C, C++, JS, Python, GO -->
