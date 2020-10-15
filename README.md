@@ -26,6 +26,8 @@ I have always been fascinated by computers and I stared programming after high s
 <h4 align="left"> Languages i know: </h4>
 <p align="left">
 
+<img width="25" height="25" alt="TypeScript" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/typescript/typescript-original.svg" />
+
 <img width="25" height="25" alt="JavaScript" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/javascript/javascript-original.svg" />
 
 <img width="25" height="25" alt="C Language" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/c/c-original.svg" />
