@@ -19,7 +19,9 @@ I have always been fascinated by computers and I stared programming after high s
 - ⚡ Fun fact: I like watching anime, listen to music and read books during my free time
 
 ### Currently listening 🎧
+
 [<img src="https://spotify-now-playing-gray.vercel.app/api/spotify-playing" alt="Ujjwal's Spotify" width="350" />](https://open.spotify.com/user/6ivnscyuxnv6hk7ajus7rgkan)
+
 <!-- <br /> -->
 <h4 align="left"> Languages i know: </h4>
 <p align="left">
@@ -51,6 +53,8 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="25" height="25" alt="MongoDB" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/mongodb/mongodb-original.svg" />
 
+<img width="25" height="25" alt="MySQL" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/mysql/mysql-original.svg" />
+
 <img width="25" height="25" alt="Node.js" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/nodejs/nodejs-original.svg" />
 </p>
 <!-- <br /> -->
@@ -80,7 +84,9 @@ I have always been fascinated by computers and I stared programming after high s
 </p>
 
 ### My GitHub stats
+
 ---
+
 <p align="left">
 <img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-Shekhawat&show_icons=true&theme=tokyonight&hide_border=true" />
 <img align="left" alt="Ujjwals's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-Shekhawat&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
