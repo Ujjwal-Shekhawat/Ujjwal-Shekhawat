@@ -70,7 +70,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 <img width="50" height="25" alt="Vercel" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/vercel/eUSBGOowfI7Z.png" />
 
-<img width="50" height="50" alt="Docker" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/docker/docker-original.svg" />
+<img width="25" height="25" alt="Docker" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/docker/docker-original.svg" />
 </p>
 <!-- <br /> -->
 <h4 align="left"> Social Media: </h4>
