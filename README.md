@@ -69,6 +69,8 @@ I have always been fascinated by computers and I stared programming after high s
 <img width="25" height="25" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img width="50" height="25" alt="Vercel" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/vercel/eUSBGOowfI7Z.png" />
+
+<img width="50" height="50" alt="Docker" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/docker/docker-original.svg" />
 </p>
 <!-- <br /> -->
 <h4 align="left"> Social Media: </h4>
