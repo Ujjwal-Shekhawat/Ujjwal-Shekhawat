@@ -10,7 +10,7 @@ I have always been fascinated by computers and I stared programming after high s
 
 #### Some things about me
 
-- 🌱 I’m currently learning AWS, GCP, DBMS, Computer Networks, Advanced C++, Full Stack web development, System Design etc.
+- 🌱 I’m currently learning AWS, GCP, DBMS, Advanced C++
 - 👯 I’m looking to collaborate on Web Development, Algorithms, Operating System's, Fast and optimized libraries and code bases
 - 🤔 I’m looking for help with Nothing
 - 💬 Ask me about Anything
