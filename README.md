@@ -10,12 +10,9 @@ I have always been fascinated by computers and I stared programming after high s
 
 #### Some things about me
 
-- 🌱 I’m currently learning AWS, GCP, DBMS, Advanced C++
 - 👯 I’m looking to collaborate on Web Development, Algorithms, Operating System's, Fast and optimized libraries and code bases
-- 🤔 I’m looking for help with Nothing
 - 💬 Ask me about Anything
 - 📫 How to reach me: Email : ujjus2001@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like watching anime, listen to music and read books during my free time
 
 ### Currently listening 🎧
